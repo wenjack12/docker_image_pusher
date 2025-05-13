@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #gitlab/gitlab-ce:latest
 #jenkins/jenkins
-docker:dind
+#docker:dind
+allinssl:latest
